@@ -1,0 +1,2618 @@
+X is2,Y is0
+##x#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,1
+space on right is #,3
+space below is .,1
+space above is #,-1
+Jchecker Negvertical corridor
+Junctionchecker result is16
+Jchecker Negvertical corridor
+Case16
+Case 16 OB = 1
+X is2,Y is1
+##.#########
+#.x#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is #,3
+space below is #,2
+space above is .,0
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is1,Y is1
+##.#########
+#x.#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is .,2
+space above is #,0
+Jchecker Rjunction
+Junctionchecker result is11
+Jchecker Rjunction
+X is1,Y is2
+##.#########
+#..#.#.#.#.#
+#x##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#x...###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is #,4
+space above is .,2
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is2,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#.x..###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,4
+space above is #,2
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is3,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#..x.###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,2
+space on right is .,4
+space below is #,4
+space above is #,2
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is4,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#...x###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,3
+space on right is #,5
+space below is .,4
+space above is .,2
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is4,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####x....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,3
+space on right is .,5
+space below is #,5
+space above is .,3
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is5,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.x...#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####..x..#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is7,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####...x.#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####....x#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,5
+space above is .,3
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is8,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####x#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,6
+space above is .,4
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#...x..#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is .,7
+space above is .,5
+Jchecker 4way
+Junctionchecker result is1
+Jchecker 4way
+X is7,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#..x...#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#.x....#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is5,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#x.....#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,4
+space on right is .,6
+space below is #,7
+space above is #,5
+Jchecker leftward dead end
+Junctionchecker result is12
+Jchecker leftward dead end
+X is6,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#.x....#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is7,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#..x...#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#...x..#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is .,7
+space above is .,5
+Jchecker 4way
+Junctionchecker result is1
+Jchecker 4way
+X is8,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####x###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#.....x#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is #,9
+space above is .,7
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is7,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#....x.#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#...x..#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is5,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#..x...#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is4,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#.x....#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,3
+space on right is .,5
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is3,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#x.....#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is .,4
+space below is #,9
+space above is .,7
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is3,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#x####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is #,4
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is3,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#x#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is #,4
+space below is .,7
+space above is .,5
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is3,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#..x####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,2
+space on right is #,4
+space below is .,6
+space above is #,4
+Jchecker reverseR junction
+Junctionchecker result is5
+Jchecker reverseR junction
+X is2,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#.x.####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,6
+space above is #,4
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is1,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#x..####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is .,6
+space above is #,4
+Jchecker Rjunction
+Junctionchecker result is11
+Jchecker Rjunction
+X is1,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#x#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,7
+space above is .,5
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#x#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#x#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,9
+space above is .,7
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is9
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#x########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,10
+space above is .,8
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#x.........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is #,11
+space above is .,9
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is2,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.x........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is3,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..x.......#
+####.#######
+
+Space on left is .,2
+space on right is .,4
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is4,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#...x......#
+####.#######
+
+Space on left is .,3
+space on right is .,5
+space below is .,11
+space above is #,9
+Jchecker uTjunction
+Junctionchecker result is15
+Jchecker uTjunction
+X is4,Y is11
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####x#######
+
+Space on left is #,3
+space on right is #,5
+space below is #,12
+space above is .,10
+Jchecker downward dead end
+Junctionchecker result is8
+Jchecker downward dead end
+X is4,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#...x......#
+####.#######
+
+Space on left is .,3
+space on right is .,5
+space below is .,11
+space above is #,9
+Jchecker uTjunction
+Junctionchecker result is15
+Jchecker uTjunction
+X is5,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#....x.....#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.....x....#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is7,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#......x...#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.......x..#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is9,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#........x.#
+####.#######
+
+Space on left is .,8
+space on right is .,10
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is10,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.........x#
+####.#######
+
+Space on left is .,9
+space on right is #,11
+space below is #,11
+space above is .,9
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is10,Y is9
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########x#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,10
+space above is .,8
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#x#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,9
+space above is #,7
+Jchecker upward dead end
+Junctionchecker result is6
+Jchecker upward dead end
+X is10,Y is9
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########x#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,10
+space above is .,8
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.........x#
+####.#######
+
+Space on left is .,9
+space on right is #,11
+space below is #,11
+space above is .,9
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is9,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#........x.#
+####.#######
+
+Space on left is .,8
+space on right is .,10
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.......x..#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is7,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#......x...#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.....x....#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is5,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#....x.....#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is4,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#...x......#
+####.#######
+
+Space on left is .,3
+space on right is .,5
+space below is .,11
+space above is #,9
+Jchecker uTjunction
+Junctionchecker result is15
+Jchecker uTjunction
+X is3,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..x.......#
+####.#######
+
+Space on left is .,2
+space on right is .,4
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is2,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#.x........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,11
+space above is #,9
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is1,Y is10
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#x.........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is #,11
+space above is .,9
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is1,Y is9
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#x########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,10
+space above is .,8
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#x#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,9
+space above is .,7
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#x#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#x#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,7
+space above is .,5
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#x..####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is .,6
+space above is #,4
+Jchecker Rjunction
+Junctionchecker result is11
+Jchecker Rjunction
+X is2,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#.x.####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,6
+space above is #,4
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is3,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#..x####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,2
+space on right is #,4
+space below is .,6
+space above is #,4
+Jchecker reverseR junction
+Junctionchecker result is5
+Jchecker reverseR junction
+X is3,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#x#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is #,4
+space below is .,7
+space above is .,5
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is3,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#x####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is #,4
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is3,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#x.....#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,2
+space on right is .,4
+space below is #,9
+space above is .,7
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is4,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#.x....#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,3
+space on right is .,5
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is5,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#..x...#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#...x..#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is7,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#....x.#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,9
+space above is #,7
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is8
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#.....x#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is #,9
+space above is .,7
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is8,Y is7
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####x###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,8
+space above is .,6
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#...x..#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is .,7
+space above is .,5
+Jchecker 4way
+Junctionchecker result is1
+Jchecker 4way
+X is9,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#....x.#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,8
+space on right is .,10
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is10,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#.....x#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,9
+space on right is #,11
+space below is #,7
+space above is .,5
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is10,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#x#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,6
+space above is .,4
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#x#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,5
+space above is .,3
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#x#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,4
+space above is .,2
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#...#x#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is1
+##.#########
+#..#.#.#.#x#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,2
+space above is #,0
+Jchecker upward dead end
+Junctionchecker result is6
+Jchecker upward dead end
+X is10,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#...#x#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#x#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,4
+space above is .,2
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#x#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,5
+space above is .,3
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#x#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,9
+space on right is #,11
+space below is .,6
+space above is .,4
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is10,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#.....x#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,9
+space on right is #,11
+space below is #,7
+space above is .,5
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is9,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#....x.#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,8
+space on right is .,10
+space below is #,7
+space above is #,5
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is6
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#...x..#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is .,9
+space below is .,7
+space above is .,5
+Jchecker 4way
+Junctionchecker result is1
+Jchecker 4way
+X is8,Y is5
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####x#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,6
+space above is .,4
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####....x#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,5
+space above is .,3
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is8,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###x#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,4
+space above is .,2
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#..x#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,3
+space above is .,1
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is8,Y is1
+##.#########
+#..#.#.#x#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,2
+space above is #,0
+Jchecker upward dead end
+Junctionchecker result is6
+Jchecker upward dead end
+X is8,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#..x#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,3
+space above is .,1
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is7,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#.x.#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,3
+space above is #,1
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#x..#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,5
+space on right is .,7
+space below is #,3
+space above is .,1
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is6,Y is1
+##.#########
+#..#.#x#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,5
+space on right is #,7
+space below is .,2
+space above is #,0
+Jchecker upward dead end
+Junctionchecker result is6
+Jchecker upward dead end
+X is6,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#x..#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,5
+space on right is .,7
+space below is #,3
+space above is .,1
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is7,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#.x.#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,3
+space above is #,1
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is8,Y is2
+##.#########
+#..#.#.#.#.#
+#.##.#..x#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,3
+space above is .,1
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is8,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###x#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,7
+space on right is #,9
+space below is .,4
+space above is .,2
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is8,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####....x#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,7
+space on right is #,9
+space below is .,5
+space above is .,3
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is7,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####...x.#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,6
+space on right is .,8
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is6,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####..x..#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,5
+space on right is .,7
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is5,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.x...#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,4
+space on right is .,6
+space below is #,5
+space above is #,3
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is4,Y is4
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####x....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,3
+space on right is .,5
+space below is #,5
+space above is .,3
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is4,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#...x###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,3
+space on right is #,5
+space below is .,4
+space above is .,2
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is4,Y is2
+##.#########
+#..#.#.#.#.#
+#.##x#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,3
+space on right is #,5
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is4,Y is1
+##.#########
+#..#x#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,3
+space on right is #,5
+space below is .,2
+space above is #,0
+Jchecker upward dead end
+Junctionchecker result is6
+Jchecker upward dead end
+X is4,Y is2
+##.#########
+#..#.#.#.#.#
+#.##x#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,3
+space on right is #,5
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is4,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#...x###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,3
+space on right is #,5
+space below is .,4
+space above is .,2
+Jchecker rTjunction
+Junctionchecker result is2
+Jchecker rTjunction
+X is3,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#..x.###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,2
+space on right is .,4
+space below is #,4
+space above is #,2
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is2,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#.x..###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is .,3
+space below is #,4
+space above is #,2
+Jchecker horizontal corridor
+Junctionchecker result is14
+Jchecker horizontal corridor
+X is1,Y is3
+##.#########
+#..#.#.#.#.#
+#.##.#...#.#
+#x...###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is #,4
+space above is .,2
+Jchecker Ljunction
+Junctionchecker result is10
+Jchecker Ljunction
+X is1,Y is2
+##.#########
+#..#.#.#.#.#
+#x##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is #,2
+space below is .,3
+space above is .,1
+Jchecker vertical corridor
+Junctionchecker result is3
+Jchecker vertical corridor
+I'm in a vertical corridor
+X is1,Y is1
+##.#########
+#x.#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,0
+space on right is .,2
+space below is .,2
+space above is #,0
+Jchecker Rjunction
+Junctionchecker result is11
+Jchecker Rjunction
+X is2,Y is1
+##.#########
+#.x#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is .,1
+space on right is #,3
+space below is #,2
+space above is .,0
+JChecker reverseL junction
+Junctionchecker result is4
+JChecker reverseL junction
+X is2,Y is0
+##x#########
+#..#.#.#.#.#
+#.##.#...#.#
+#....###.#.#
+####.....#.#
+#...####.#.#
+#.#.#......#
+#.#.####.###
+#.#......#.#
+#.########.#
+#..........#
+####.#######
+
+Space on left is #,1
+space on right is #,3
+space below is .,1
+space above is #,-1
+Jchecker Negvertical corridor
+Junctionchecker result is16
+Jchecker Negvertical corridor
+Case16

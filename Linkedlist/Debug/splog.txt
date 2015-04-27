@@ -1,0 +1,2 @@
+More than one CPU detected.
+You should run two copies of SP2004 simultaneously.

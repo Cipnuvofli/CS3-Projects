@@ -1,0 +1,42 @@
+﻿Build started 11/26/2012 1:22:16 AM.
+     1>Project "c:\documents and settings\Jeffrey\my documents\visual studio 2010\Projects\Set\Set\Set.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Set.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt prog4_Penrod.cpp
+         prog4_Penrod.cpp
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(189) : see reference to class template instantiation 'Set<Comparable>' being compiled
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(15): error C2143: syntax error : missing ',' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C2143: syntax error : missing ';' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C2143: syntax error : missing ',' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(201) : see reference to class template instantiation 'Set<Comparable>' being compiled
+                 with
+                 [
+                     Comparable=int
+                 ]
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(15): error C2143: syntax error : missing ',' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C2143: syntax error : missing ';' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(56): error C2143: syntax error : missing ',' before '&'
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(204): error C2039: 'length' : is not a member of 'Set<Comparable>'
+                 with
+                 [
+                     Comparable=int
+                 ]
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\set\set\prog4_penrod.cpp(313): error C2039: 'length' : is not a member of 'Set<Comparable>'
+                 with
+                 [
+                     Comparable=int
+                 ]
+     1>Done Building Project "c:\documents and settings\Jeffrey\my documents\visual studio 2010\Projects\Set\Set\Set.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.95

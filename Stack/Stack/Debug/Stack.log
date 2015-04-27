@@ -1,0 +1,23 @@
+﻿Build started 11/3/2011 6:08:49 PM.
+     1>Project "C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Stack\Stack.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Stack.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Stack.cpp
+         Stack.cpp
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\stack\stack\stack.cpp(207): warning C4715: 'doublylinkedlist::remove' : not all control paths return a value
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Stack.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.lib" /MACHINE:X86 Debug\doublylinkedlist.obj
+         Debug\Stack.obj
+         LINK : C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.exe not found or not built by the last incremental link; performing full link
+         Stack.vcxproj -> C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Debug\Stack.exe;#1" /manifest Debug\Stack.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Stack.unsuccessfulbuild".
+         Touching "Debug\Stack.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\Stack\Stack\Stack.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50

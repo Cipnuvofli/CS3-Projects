@@ -1,0 +1,44 @@
+﻿Build started 9/30/2012 11:39:37 AM.
+     1>Project "C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\OrderedCollection\OrderedCollection.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OrderedCollection.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt prog1_Penrod.cpp
+         prog1_Penrod.cpp
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(25) : while compiling class template member function 'bool OrderedCollection<Comparable>::remove(Comparable)'
+                 with
+                 [
+                     Comparable=int
+                 ]
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(127) : see reference to class template instantiation 'OrderedCollection<Comparable>' being compiled
+                 with
+                 [
+                     Comparable=int
+                 ]
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(40) : while compiling class template member function 'int OrderedCollection<Comparable>::findMin(void)'
+                 with
+                 [
+                     Comparable=int
+                 ]
+     1>c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+                 c:\documents and settings\jeffrey\my documents\visual studio 2010\projects\orderedcollection\orderedcollection\prog1_penrod.cpp(61) : while compiling class template member function 'int OrderedCollection<Comparable>::findMax(void)'
+                 with
+                 [
+                     Comparable=int
+                 ]
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OrderedCollection.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.lib" /MACHINE:X86 Debug\prog1_Penrod.obj
+         LINK : C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.exe not found or not built by the last incremental link; performing full link
+         OrderedCollection.vcxproj -> C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\Debug\OrderedCollection.exe;#1" /manifest Debug\OrderedCollection.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\OrderedCollection.unsuccessfulbuild".
+         Touching "Debug\OrderedCollection.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Jeffrey\my documents\visual studio 2010\Projects\OrderedCollection\OrderedCollection\OrderedCollection.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.37
